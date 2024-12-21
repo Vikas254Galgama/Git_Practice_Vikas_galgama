@@ -1,0 +1,1 @@
+git is useful beacuse it provides version control, facilitates collaborations,and ensures code integrity.
