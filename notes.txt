@@ -1,1 +1,3 @@
 git is useful beacuse it provides version control, facilitates collaborations,and ensures code integrity.
+1)Islation of work : changes in one branches do not impact other branches until merged.
+2)Parallel Development: Multiple developers can work on different features simultaneously
